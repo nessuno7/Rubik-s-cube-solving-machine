@@ -9,10 +9,10 @@ The code used for Arduino Mega is found in the Arduino_code folder. More informa
 \
 The machine has two modes of use:
 - The code gives prints a random scramble and the CFOP solution to such scramble to the terminal
-- The user inputs all the colors of the already scrambles cube in a particular order, and the code prints the solution to the terminal\
+- The user inputs all the colors of the already scrambles cube in a particular order, and the code prints the solution to the terminal
 
 To run the machine, the Arduino_code needs to be run on an Arduino Mega, while the F2L algorithm needs to be run from the advanced_method.cpp file.\
-On the arduino IDE the serial monitor has to be openend to copy and paste the move solutions from the terminal to the serial monitor.\
+On the arduino IDE the serial monitor has to be openend to copy and paste the move solutions from the terminal to the serial monitor.
 
 Personal Info:
 - email: nichiandetti@gmail.com
