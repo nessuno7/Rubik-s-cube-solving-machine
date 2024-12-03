@@ -15,6 +15,7 @@ To run the machine, the Arduino_code needs to be run on an Arduino Mega, while t
 On the arduino IDE the serial monitor has to be openend to copy and paste the move solutions from the terminal to the serial monitor.
 
 Personal Info:
+- name: Nicola Chiandetti
 - email: nichiandetti@gmail.com
 
 
